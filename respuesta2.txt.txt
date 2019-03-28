@@ -1,0 +1,1 @@
+No se puede ver los cambios  por que creamos una nueva rama(branch) y actualmente estamos en ella.. pero necesitamos volver a la rama(master) principal
