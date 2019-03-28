@@ -1,0 +1,1 @@
+no aparece... por que creamos una nueva rama(branch) y estamos en la misma por lo tanto si queremos ver tenemos q volver a la rama anterior(master).
